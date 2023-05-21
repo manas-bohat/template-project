@@ -1,0 +1,16 @@
+.list-item {
+    padding: 6px;
+    padding-left: 12px;
+    border: 0.5px solid grey;
+    border-top: 0px;
+}
+
+.first-item {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.last-item {
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
